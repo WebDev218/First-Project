@@ -186,7 +186,8 @@ a.social:hover {
 .hobby-pic {
   border: 2px dotted black;
   border-radius: 10px;
-  max-width: 400px;
+  max-width: 300px;
+  transition: all .4s;
 }
 
 
