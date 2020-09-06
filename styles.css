@@ -190,6 +190,11 @@ a.social:hover {
   transition: all .4s;
 }
 
+.l-ipsum {
+  max-width: 350px;
+  border: 2px dotted black;
+  border-radius: 10px;
+}
 
 
 /* Styles for larger screens */
